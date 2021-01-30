@@ -16,8 +16,8 @@ TagManager:
   - Ground
   - Floor Extension and Decoration
   - Front Walls No Collidors
-  - Front and Rear Wall Collidors
-  - Left and Right Wall Collidors
+  - Collision Walls
+  - Left and Right Wall Collidors// Not in Use
   - Player
   - Enemies
   - 
