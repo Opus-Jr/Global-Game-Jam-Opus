@@ -7,6 +7,7 @@ public class PlayerMovement : MonoBehaviour
     public Rigidbody2D rb;
 
     public float runSpeed;
+    public Camera cam;
 
     Vector2 moveDirection;
 
