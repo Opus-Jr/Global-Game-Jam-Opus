@@ -34,7 +34,7 @@ public class PlayerMovement : MonoBehaviour
     void ProcessInputs()
     {
         float moveX = Input.GetAxisRaw("Horizontal");
-        float moveY = Input.GetAxisRaw("Verticel");
+        float moveY = Input.GetAxisRaw("Vertical");
 
         moveDirection = new Vector2(moveX, moveY).normalized;
     }
