@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 77616420}
   - component: {fileID: 77616422}
   - component: {fileID: 77616421}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25155,7 +25155,7 @@ GameObject:
   m_Component:
   - component: {fileID: 347201526}
   - component: {fileID: 347201525}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Tilemaps
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25203,7 +25203,7 @@ GameObject:
   - component: {fileID: 347627229}
   - component: {fileID: 347627231}
   - component: {fileID: 347627230}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Front and Rear Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26208,9 +26208,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1322401183}
   - component: {fileID: 1322401182}
-  m_Layer: 0
+  - component: {fileID: 1322401185}
+  - component: {fileID: 1322401184}
+  m_Layer: 9
   m_Name: Simple Player Image
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26273,12 +26275,47 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1322401181}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.489775, y: -3.2351522, z: 0}
+  m_LocalPosition: {x: -9, y: -0.47, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1322401184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1322401181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe10495cc3fcfc04692007927777bc13, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rb: {fileID: 1322401185}
+  runSpeed: 5
+--- !u!50 &1322401185
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1322401181}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!1 &1736936316
 GameObject:
   m_ObjectHideFlags: 0
@@ -26290,7 +26327,7 @@ GameObject:
   - component: {fileID: 1736936317}
   - component: {fileID: 1736936319}
   - component: {fileID: 1736936318}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Ground Extension
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26953,7 +26990,7 @@ GameObject:
   - component: {fileID: 1987135081}
   - component: {fileID: 1987135083}
   - component: {fileID: 1987135082}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Left and Right Walls
   m_TagString: Untagged
   m_Icon: {fileID: 0}
