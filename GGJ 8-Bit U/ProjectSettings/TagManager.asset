@@ -19,7 +19,7 @@ TagManager:
   - Front and Rear Wall Collidors
   - Left and Right Wall Collidors
   - Player
-  - 
+  - Enemies
   - 
   - 
   - 
@@ -59,6 +59,12 @@ TagManager:
   - name: Left and Right Collision Walls
     uniqueID: 3120137995
     locked: 0
+  - name: Pick ups
+    uniqueID: 1530737203
+    locked: 0
   - name: Player
     uniqueID: 477252495
+    locked: 0
+  - name: Enemies
+    uniqueID: 1800891483
     locked: 0
