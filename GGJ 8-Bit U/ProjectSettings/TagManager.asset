@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - MyGold
   layers:
   - Default
   - TransparentFX
@@ -20,7 +21,7 @@ TagManager:
   - Left and Right Wall Collidors// Not in Use
   - Player
   - Enemies
-  - 
+  - UI 2
   - 
   - 
   - 
