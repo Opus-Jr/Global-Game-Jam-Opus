@@ -24,39 +24,37 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
         // Input
-        ProcessInputs();
-    }
-
-    private void FixedUpdate() 
-    {
-        // Player Movement
-        Move();
-    }
-
-    void ProcessInputs()
-    {
-        if (Input.GetAxisRaw("Run"))
-        {
-
-            TakeDamage(1);
-        }
-        else
-        {
-            TakeDamage(-1);
-        }
+        
         float moveX = Input.GetAxisRaw("Horizontal");
         float moveY = Input.GetAxisRaw("Vertical");
 
         moveDirection = new Vector2(moveX, moveY).normalized;
+        //ProcessInputs();
     }
-    void Move()
+
+    private void FixedUpdate() 
     {
-        rb.velocity = new Vector2(moveDirection.x * runSpeed, moveDirection.y * runSpeed);
+
+        // Player Movement
+        if (Input.GetKeyDown(KeyCode.LeftShift))
+        {
+            rb.velocity = new Vector2(moveDirection.x * runSpeed * 1.2f, moveDirection.y * runSpeed * 1.2f);
+            TakeDamage(1);
+        }
+        else if (Input.GetKeyUp(KeyCode.LeftShift))
+        {
+            rb.velocity = new Vector2(moveDirection.x * runSpeed, moveDirection.y * runSpeed);
+            TakeDamage(-1);
+        }
+        //Move();
     }
+
     void TakeDamage(int damage)
     {
         currentRun -= damage;
+
         runBar.SetHealth(currentRun);
     }
 }
