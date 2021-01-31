@@ -5,35 +5,47 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public Rigidbody2D rb;
+    public HealthBar runBar;
+
+    public int maxRun = 100;
+    public int currentRun;
 
     public float runSpeed;
     public Camera cam;
 
     Vector2 moveDirection;
 
-    /*void Start()
+    void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
-    }*/
+        currentRun = maxRun;
+        runBar.SetMaxHealth(maxRun);
+    }
 
     // Update is called once per frame
     void Update()
     {
         // Input
         ProcessInputs();
-        //float horizontal = Input.GetAxisRaw("Horizontal");
-        //float vertical = Input.GetAxisRaw("Verticel");
     }
 
     private void FixedUpdate() 
     {
         // Player Movement
         Move();
-        //rb.velocity = new Vector2(horizontal * runSpeed /* Time.fixedDeltaTime*/, vertical * runSpeed /* Time.fixedDeltaTime*/);
     }
 
     void ProcessInputs()
     {
+        if (Input.GetAxisRaw("Run"))
+        {
+
+            TakeDamage(1);
+        }
+        else
+        {
+
+            TakeDamage(-1);
+        }
         float moveX = Input.GetAxisRaw("Horizontal");
         float moveY = Input.GetAxisRaw("Vertical");
 
@@ -42,5 +54,9 @@ public class PlayerMovement : MonoBehaviour
     void Move()
     {
         rb.velocity = new Vector2(moveDirection.x * runSpeed, moveDirection.y * runSpeed);
+    }
+    void TakeDamage(int damage)
+    {
+        currentRun -= damage;
     }
 }
