@@ -9,7 +9,7 @@ public class ScoreScript : MonoBehaviour
 
     public Text MyscoreText;
     private int ScoreNum;
-    private int MaxScore = 15;
+    private int MaxScore = 25;
     public bool WinCondition = false;
 
     // Start is called before the first frame update
@@ -17,9 +17,10 @@ public class ScoreScript : MonoBehaviour
     {
 
         ScoreNum = 0;
-        MyscoreText.text = "Score : " + ScoreNum;
+        MyscoreText.text = "Gold : " + ScoreNum;
 
     }
+   
 
     private void OnTriggerEnter2D(Collider2D Gold)
     {
@@ -28,7 +29,14 @@ public class ScoreScript : MonoBehaviour
         {
             ScoreNum += 1;
             Destroy(Gold.gameObject);
-            MyscoreText.text = "Score : " + ScoreNum;
+            MyscoreText.text = "Gold : " + ScoreNum;
+        }
+
+        if (Gold.tag == "GoldCrate")
+        {
+            ScoreNum += 5;
+            Destroy(Gold.gameObject);
+            MyscoreText.text = "Gold : " + ScoreNum;
         }
 
         if (ScoreNum == MaxScore)
