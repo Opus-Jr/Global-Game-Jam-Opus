@@ -43,7 +43,6 @@ public class PlayerMovement : MonoBehaviour
         }
         else
         {
-
             TakeDamage(-1);
         }
         float moveX = Input.GetAxisRaw("Horizontal");
@@ -58,5 +57,6 @@ public class PlayerMovement : MonoBehaviour
     void TakeDamage(int damage)
     {
         currentRun -= damage;
+        runBar.SetHealth(currentRun);
     }
 }
