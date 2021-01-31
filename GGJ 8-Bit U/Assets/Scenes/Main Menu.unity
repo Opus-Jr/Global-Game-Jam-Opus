@@ -2195,9 +2195,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Place Holder Description
-
-'
+  m_text: "W - Move Up\t\tCollect Gold to Earn Points\nA - Move Left\t\tChests Give
+    5 Gold\nS - Move Down\t\tCollect Gold to Win!\nD - Move Right\t\t\n\nAvoid The
+    Monsters Or You Lose\nBeware Of Big Corridor Blocking Boxes "
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
