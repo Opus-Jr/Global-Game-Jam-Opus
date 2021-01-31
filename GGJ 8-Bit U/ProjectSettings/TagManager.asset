@@ -6,6 +6,7 @@ TagManager:
   tags:
   - MyGold
   - GoldCrate
+  - Ai
   layers:
   - Default
   - TransparentFX
