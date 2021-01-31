@@ -39,7 +39,7 @@ public class ScoreScript : MonoBehaviour
             MyscoreText.text = "Gold : " + ScoreNum;
         }
 
-        if (ScoreNum == MaxScore)
+        if (ScoreNum >= MaxScore)
         {
             WinCondition = true;
         }
