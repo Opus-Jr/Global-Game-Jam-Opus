@@ -1,0 +1,3800 @@
+fileFormatVersion: 2
+guid: 075369d4f47ce8148aa13a93b6ac6ab6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4295590196710609214
+    second: CharAni-Full-NoWeps_0
+  - first:
+      213: 2066906186861625394
+    second: CharAni-Full-NoWeps_1
+  - first:
+      213: 1059047949042892425
+    second: CharAni-Full-NoWeps_2
+  - first:
+      213: 8599107632201050703
+    second: CharAni-Full-NoWeps_3
+  - first:
+      213: -7822771162079471200
+    second: CharAni-Full-NoWeps_4
+  - first:
+      213: -2679982701718017220
+    second: CharAni-Full-NoWeps_5
+  - first:
+      213: -7095553912120971007
+    second: CharAni-Full-NoWeps_6
+  - first:
+      213: -7421799956321732007
+    second: CharAni-Full-NoWeps_7
+  - first:
+      213: -7526147466824369330
+    second: CharAni-Full-NoWeps_8
+  - first:
+      213: -1280443295394152192
+    second: CharAni-Full-NoWeps_9
+  - first:
+      213: -2982959897019394686
+    second: CharAni-Full-NoWeps_10
+  - first:
+      213: 8112393357295186895
+    second: CharAni-Full-NoWeps_11
+  - first:
+      213: -2326423349450436571
+    second: CharAni-Full-NoWeps_12
+  - first:
+      213: -7545467455904477182
+    second: CharAni-Full-NoWeps_13
+  - first:
+      213: 6215798806612080381
+    second: CharAni-Full-NoWeps_14
+  - first:
+      213: -3734389687086818133
+    second: CharAni-Full-NoWeps_15
+  - first:
+      213: 7972780095943601902
+    second: CharAni-Full-NoWeps_16
+  - first:
+      213: 8848130604704408163
+    second: CharAni-Full-NoWeps_17
+  - first:
+      213: -583544868735963045
+    second: CharAni-Full-NoWeps_18
+  - first:
+      213: 760138505436816566
+    second: CharAni-Full-NoWeps_19
+  - first:
+      213: -395847238343283530
+    second: CharAni-Full-NoWeps_20
+  - first:
+      213: 6281060811787383816
+    second: CharAni-Full-NoWeps_21
+  - first:
+      213: -3279492395938771200
+    second: CharAni-Full-NoWeps_22
+  - first:
+      213: 2406101787471099861
+    second: CharAni-Full-NoWeps_23
+  - first:
+      213: -1382786145724073425
+    second: CharAni-Full-NoWeps_24
+  - first:
+      213: -5913080132376460936
+    second: CharAni-Full-NoWeps_25
+  - first:
+      213: 9012112852582559540
+    second: CharAni-Full-NoWeps_26
+  - first:
+      213: -4692502396714793320
+    second: CharAni-Full-NoWeps_27
+  - first:
+      213: -8262650977218118628
+    second: CharAni-Full-NoWeps_28
+  - first:
+      213: 7894990103588046412
+    second: CharAni-Full-NoWeps_29
+  - first:
+      213: 6077940136224830462
+    second: CharAni-Full-NoWeps_30
+  - first:
+      213: 4735016780079357206
+    second: CharAni-Full-NoWeps_31
+  - first:
+      213: 7722955543531846026
+    second: CharAni-Full-NoWeps_32
+  - first:
+      213: 568454645594432226
+    second: CharAni-Full-NoWeps_33
+  - first:
+      213: -3494822231438442856
+    second: CharAni-Full-NoWeps_34
+  - first:
+      213: -5950059263593865557
+    second: CharAni-Full-NoWeps_35
+  - first:
+      213: -2709315130700444168
+    second: CharAni-Full-NoWeps_36
+  - first:
+      213: -283865682536506025
+    second: CharAni-Full-NoWeps_37
+  - first:
+      213: -4081154776319646398
+    second: CharAni-Full-NoWeps_38
+  - first:
+      213: 942502386355659697
+    second: CharAni-Full-NoWeps_39
+  - first:
+      213: -3160517254106034583
+    second: CharAni-Full-NoWeps_40
+  - first:
+      213: 5972056835520009888
+    second: CharAni-Full-NoWeps_41
+  - first:
+      213: -1907746868773946597
+    second: CharAni-Full-NoWeps_42
+  - first:
+      213: 6487470563581456883
+    second: CharAni-Full-NoWeps_43
+  - first:
+      213: -8214344167167819574
+    second: CharAni-Full-NoWeps_44
+  - first:
+      213: 3320508747197719747
+    second: CharAni-Full-NoWeps_45
+  - first:
+      213: 57619119544238358
+    second: CharAni-Full-NoWeps_46
+  - first:
+      213: 6466635252303172217
+    second: CharAni-Full-NoWeps_47
+  - first:
+      213: 7089653888493251222
+    second: CharAni-Full-NoWeps_48
+  - first:
+      213: 6821157600788849175
+    second: CharAni-Full-NoWeps_49
+  - first:
+      213: -1730121814846967180
+    second: CharAni-Full-NoWeps_50
+  - first:
+      213: 8490780150760384258
+    second: CharAni-Full-NoWeps_51
+  - first:
+      213: 1388980037087593697
+    second: CharAni-Full-NoWeps_52
+  - first:
+      213: -2729601003154379272
+    second: CharAni-Full-NoWeps_53
+  - first:
+      213: -8823444270985081670
+    second: CharAni-Full-NoWeps_54
+  - first:
+      213: 5951184882656057082
+    second: CharAni-Full-NoWeps_55
+  - first:
+      213: -6524952310035587262
+    second: CharAni-Full-NoWeps_56
+  - first:
+      213: 8780331340284854141
+    second: CharAni-Full-NoWeps_57
+  - first:
+      213: -1121508991274230926
+    second: CharAni-Full-NoWeps_58
+  - first:
+      213: -8165255443808959422
+    second: CharAni-Full-NoWeps_59
+  - first:
+      213: 1419932055203356171
+    second: CharAni-Full-NoWeps_60
+  - first:
+      213: -8364873301022665904
+    second: CharAni-Full-NoWeps_61
+  - first:
+      213: -907784090076965653
+    second: CharAni-Full-NoWeps_62
+  - first:
+      213: 647406705107966642
+    second: CharAni-Full-NoWeps_63
+  - first:
+      213: -7027827480698322509
+    second: CharAni-Full-NoWeps_64
+  - first:
+      213: -208921719759885089
+    second: CharAni-Full-NoWeps_65
+  - first:
+      213: 2209988941750855648
+    second: CharAni-Full-NoWeps_66
+  - first:
+      213: -3612143540191549432
+    second: CharAni-Full-NoWeps_67
+  - first:
+      213: -6395738109245277930
+    second: CharAni-Full-NoWeps_68
+  - first:
+      213: -253589045785113608
+    second: CharAni-Full-NoWeps_69
+  - first:
+      213: 8145730955230839594
+    second: CharAni-Full-NoWeps_70
+  - first:
+      213: 4311069805322584603
+    second: CharAni-Full-NoWeps_71
+  - first:
+      213: 7969689987308787716
+    second: CharAni-Full-NoWeps_72
+  - first:
+      213: 5982945473960546356
+    second: CharAni-Full-NoWeps_73
+  - first:
+      213: 4567177810572285636
+    second: CharAni-Full-NoWeps_74
+  - first:
+      213: 9109926029829043606
+    second: CharAni-Full-NoWeps_75
+  - first:
+      213: 1427299182609016798
+    second: CharAni-Full-NoWeps_76
+  - first:
+      213: 7603520328080977107
+    second: CharAni-Full-NoWeps_77
+  - first:
+      213: 1539658056560518963
+    second: CharAni-Full-NoWeps_78
+  - first:
+      213: 6848445024779580924
+    second: CharAni-Full-NoWeps_79
+  - first:
+      213: -8502920906191160198
+    second: CharAni-Full-NoWeps_80
+  - first:
+      213: 7013653746611188921
+    second: CharAni-Full-NoWeps_81
+  - first:
+      213: 4667062412282645763
+    second: CharAni-Full-NoWeps_82
+  - first:
+      213: -6543234213190426536
+    second: CharAni-Full-NoWeps_83
+  - first:
+      213: 5952736893652261010
+    second: CharAni-Full-NoWeps_84
+  - first:
+      213: 4298535797152393638
+    second: CharAni-Full-NoWeps_85
+  - first:
+      213: -7787391132430560494
+    second: CharAni-Full-NoWeps_86
+  - first:
+      213: -293804411224421319
+    second: CharAni-Full-NoWeps_87
+  - first:
+      213: 8586239474879470862
+    second: CharAni-Full-NoWeps_88
+  - first:
+      213: -7048716722768104391
+    second: CharAni-Full-NoWeps_89
+  - first:
+      213: -1429033719168808616
+    second: CharAni-Full-NoWeps_90
+  - first:
+      213: -7281298433921254741
+    second: CharAni-Full-NoWeps_91
+  - first:
+      213: 4177074035219246878
+    second: CharAni-Full-NoWeps_92
+  - first:
+      213: -3663903938723452646
+    second: CharAni-Full-NoWeps_93
+  - first:
+      213: 3785236156945071291
+    second: CharAni-Full-NoWeps_94
+  - first:
+      213: 1716938305162986904
+    second: CharAni-Full-NoWeps_95
+  - first:
+      213: 953829824726708533
+    second: CharAni-Full-NoWeps_96
+  - first:
+      213: 869971329718659195
+    second: CharAni-Full-NoWeps_97
+  - first:
+      213: -8138714907155699875
+    second: CharAni-Full-NoWeps_98
+  - first:
+      213: -6716267151732253595
+    second: CharAni-Full-NoWeps_99
+  - first:
+      213: 2071039865834511305
+    second: CharAni-Full-NoWeps_100
+  - first:
+      213: 5665383025800609576
+    second: CharAni-Full-NoWeps_101
+  - first:
+      213: 6867771532877736588
+    second: CharAni-Full-NoWeps_102
+  - first:
+      213: -1680308199105057533
+    second: CharAni-Full-NoWeps_103
+  - first:
+      213: 886123751701748339
+    second: CharAni-Full-NoWeps_104
+  - first:
+      213: 2352523269258711234
+    second: CharAni-Full-NoWeps_105
+  - first:
+      213: -3469402673687105946
+    second: CharAni-Full-NoWeps_106
+  - first:
+      213: -692587615516667603
+    second: CharAni-Full-NoWeps_107
+  - first:
+      213: 8227721322208256619
+    second: CharAni-Full-NoWeps_108
+  - first:
+      213: -8965980001423208056
+    second: CharAni-Full-NoWeps_109
+  - first:
+      213: -4144588591099794352
+    second: CharAni-Full-NoWeps_110
+  - first:
+      213: 8130144917659178631
+    second: CharAni-Full-NoWeps_111
+  - first:
+      213: -7309045681208335158
+    second: CharAni-Full-NoWeps_112
+  - first:
+      213: 8838367120858427043
+    second: CharAni-Full-NoWeps_113
+  - first:
+      213: 7325215062902737388
+    second: CharAni-Full-NoWeps_114
+  - first:
+      213: -7996041371143577088
+    second: CharAni-Full-NoWeps_115
+  - first:
+      213: 3295134625795261485
+    second: CharAni-Full-NoWeps_116
+  - first:
+      213: -6432491621732035879
+    second: CharAni-Full-NoWeps_117
+  - first:
+      213: -1236432023760519290
+    second: CharAni-Full-NoWeps_118
+  - first:
+      213: 4174735892366016639
+    second: CharAni-Full-NoWeps_119
+  - first:
+      213: 1047541784292592155
+    second: CharAni-Full-NoWeps_120
+  - first:
+      213: 614646612606678427
+    second: CharAni-Full-NoWeps_121
+  - first:
+      213: 7258001886342393095
+    second: CharAni-Full-NoWeps_122
+  - first:
+      213: -9062200770486901243
+    second: CharAni-Full-NoWeps_123
+  - first:
+      213: 432501624215917050
+    second: CharAni-Full-NoWeps_124
+  - first:
+      213: -3435686354298473095
+    second: CharAni-Full-NoWeps_125
+  - first:
+      213: 8488585620947854744
+    second: CharAni-Full-NoWeps_126
+  - first:
+      213: -4499648674741964269
+    second: CharAni-Full-NoWeps_127
+  - first:
+      213: 2562542536551547368
+    second: CharAni-Full-NoWeps_128
+  - first:
+      213: -7662043001589435290
+    second: CharAni-Full-NoWeps_129
+  - first:
+      213: -8444717805877260884
+    second: CharAni-Full-NoWeps_130
+  - first:
+      213: 6121336734793917440
+    second: CharAni-Full-NoWeps_131
+  - first:
+      213: -355200768999611649
+    second: CharAni-Full-NoWeps_132
+  - first:
+      213: -4627860588757609755
+    second: CharAni-Full-NoWeps_133
+  - first:
+      213: -7215176798750869525
+    second: CharAni-Full-NoWeps_134
+  - first:
+      213: -6368633081410514855
+    second: CharAni-Full-NoWeps_135
+  - first:
+      213: 5836621852871541
+    second: CharAni-Full-NoWeps_136
+  - first:
+      213: -2681249941328297590
+    second: CharAni-Full-NoWeps_137
+  - first:
+      213: -3117038758555252782
+    second: CharAni-Full-NoWeps_138
+  - first:
+      213: -8180549293326442548
+    second: CharAni-Full-NoWeps_139
+  - first:
+      213: 5442003642323758226
+    second: CharAni-Full-NoWeps_140
+  - first:
+      213: -6070371032282692450
+    second: CharAni-Full-NoWeps_141
+  - first:
+      213: -5578463574752495950
+    second: CharAni-Full-NoWeps_142
+  - first:
+      213: -3838198555266383233
+    second: CharAni-Full-NoWeps_143
+  - first:
+      213: -6061719794366706383
+    second: CharAni-Full-NoWeps_144
+  - first:
+      213: 462892202523981431
+    second: CharAni-Full-NoWeps_145
+  - first:
+      213: -3024354422179976004
+    second: CharAni-Full-NoWeps_146
+  - first:
+      213: 4072545921668145238
+    second: CharAni-Full-NoWeps_147
+  - first:
+      213: 445590374233066858
+    second: CharAni-Full-NoWeps_148
+  - first:
+      213: -1077000076657421007
+    second: CharAni-Full-NoWeps_149
+  - first:
+      213: 861435368120038016
+    second: CharAni-Full-NoWeps_150
+  - first:
+      213: -8546881711293752496
+    second: CharAni-Full-NoWeps_151
+  - first:
+      213: 735484621288278793
+    second: CharAni-Full-NoWeps_152
+  - first:
+      213: -7963108369857472839
+    second: CharAni-Full-NoWeps_153
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 744
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cee960a97ff264c0800000000000000
+      internalID: -4295590196710609214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 744
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230c1fbd9302fac10800000000000000
+      internalID: 2066906186861625394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 744
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ebec2af7e72be00800000000000000
+      internalID: 1059047949042892425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 744
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aa1bad4da265770800000000000000
+      internalID: 8599107632201050703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 712
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9551d231fef6390800000000000000
+      internalID: -7822771162079471200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 712
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3be7e39ee9cecad0800000000000000
+      internalID: -2679982701718017220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 712
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101756f8f47878d90800000000000000
+      internalID: -7095553912120971007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 712
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95afe691348700990800000000000000
+      internalID: -7421799956321732007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 712
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b3ab011c0cd8790800000000000000
+      internalID: -7526147466824369330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 712
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001400f5b93fa3ee0800000000000000
+      internalID: -1280443295394152192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 712
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2855cee27c56a96d0800000000000000
+      internalID: -2982959897019394686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 712
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc371d3f6c2059070800000000000000
+      internalID: 8112393357295186895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 680
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52015d22a42e6bfd0800000000000000
+      internalID: -2326423349450436571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 680
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2001b82935d194790800000000000000
+      internalID: -7545467455904477182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 680
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6f867f414f24650800000000000000
+      internalID: 6215798806612080381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 680
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacde408d58cc2cc0800000000000000
+      internalID: -3734389687086818133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 680
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeee503714105ae60800000000000000
+      internalID: 7972780095943601902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 680
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3622ba3d7efdaca70800000000000000
+      internalID: 8848130604704408163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 680
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50bd7c9805d6e7f0800000000000000
+      internalID: -583544868735963045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_19
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 680
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b468ac71fd8c8a00800000000000000
+      internalID: 760138505436816566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 648
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcaa35b80ba18af0800000000000000
+      internalID: -395847238343283530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 648
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804b633a78fca2750800000000000000
+      internalID: 6281060811787383816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 648
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f89789a07ec72d0800000000000000
+      internalID: -3279492395938771200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 648
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7b5afd3d0346120800000000000000
+      internalID: 2406101787471099861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_24
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 648
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2af8c7a35b5fcce0800000000000000
+      internalID: -1382786145724073425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 648
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871084dc2f480fda0800000000000000
+      internalID: -5913080132376460936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_26
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 648
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f6ae524e4711d70800000000000000
+      internalID: 9012112852582559540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_27
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 648
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8964520aee1e0eeb0800000000000000
+      internalID: -4692502396714793320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 616
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c31efa6ba255d80800000000000000
+      internalID: -8262650977218118628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 616
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4607957ba3a09d60800000000000000
+      internalID: 7894990103588046412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 616
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef335c10a5e295450800000000000000
+      internalID: 6077940136224830462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_31
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 616
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dd42e9ca826b140800000000000000
+      internalID: 4735016780079357206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_32
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 616
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89795c16237d2b60800000000000000
+      internalID: 7722955543531846026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_33
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 616
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2a3950d7e83e700800000000000000
+      internalID: 568454645594432226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 616
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e39f562b5ef7fc0800000000000000
+      internalID: -3494822231438442856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_35
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 616
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae17f0ef942d6da0800000000000000
+      internalID: -5950059263593865557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 584
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd42024e34966ad0800000000000000
+      internalID: -2709315130700444168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 584
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ddc7c6aa18f0cf0800000000000000
+      internalID: -283865682536506025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 584
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24524149a53dc57c0800000000000000
+      internalID: -4081154776319646398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_39
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 584
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3efa24de0741d00800000000000000
+      internalID: 942502386355659697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_40
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 584
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e44827d469324d0800000000000000
+      internalID: -3160517254106034583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_41
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 584
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a61d93fc0201e250800000000000000
+      internalID: 5972056835520009888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 584
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b7d5d94525685e0800000000000000
+      internalID: -1907746868773946597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_43
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 584
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f173110b10280a50800000000000000
+      internalID: 6487470563581456883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 552
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0092d5089c00e80800000000000000
+      internalID: -8214344167167819574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_45
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 552
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c42c4edc11d41e20800000000000000
+      internalID: 3320508747197719747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_46
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 552
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61184b0b844bcc000800000000000000
+      internalID: 57619119544238358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_47
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 552
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9729c81108a1eb950800000000000000
+      internalID: 6466635252303172217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_48
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 552
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a6b1426a2836260800000000000000
+      internalID: 7089653888493251222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_49
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 552
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712a9f7a2be99ae50800000000000000
+      internalID: 6821157600788849175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_50
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 552
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47274ef306f5df7e0800000000000000
+      internalID: -1730121814846967180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_51
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 552
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207a200af8f45d570800000000000000
+      internalID: 8490780150760384258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_52
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 520
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e407be0cf5a64310800000000000000
+      internalID: 1388980037087593697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_53
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 520
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdee6489528e1ad0800000000000000
+      internalID: -2729601003154379272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_54
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 520
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc8a742f24dc8580800000000000000
+      internalID: -8823444270985081670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_55
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 520
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6936bbe1bd69250800000000000000
+      internalID: 5951184882656057082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_56
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 520
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fd6f7d176b275a0800000000000000
+      internalID: -6524952310035587262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_57
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 520
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f78e375d00ad970800000000000000
+      internalID: 8780331340284854141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_58
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 520
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b51b2b3899f60f0800000000000000
+      internalID: -1121508991274230926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_59
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 520
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244417b6f6f2fae80800000000000000
+      internalID: -8165255443808959422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 488
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e169b5eac94b310800000000000000
+      internalID: 1419932055203356171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_61
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 488
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053156d3d000aeb80800000000000000
+      internalID: -8364873301022665904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 488
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be416320e27e663f0800000000000000
+      internalID: -907784090076965653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_63
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 488
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba9a2bd7fc0cf800800000000000000
+      internalID: 647406705107966642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_64
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 488
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b18f3e2424287e90800000000000000
+      internalID: -7027827480698322509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_65
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 488
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc29d38dc2c91df0800000000000000
+      internalID: -208921719759885089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_66
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 488
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7e996cb357bae10800000000000000
+      internalID: 2209988941750855648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_67
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 488
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808292196961fddc0800000000000000
+      internalID: -3612143540191549432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_68
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 456
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619b1026316cd37a0800000000000000
+      internalID: -6395738109245277930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_69
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 456
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb4c0f3b121b7cf0800000000000000
+      internalID: -253589045785113608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_70
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 456
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23007655237b0170800000000000000
+      internalID: 8145730955230839594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_71
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 456
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b124a2c952ff3db30800000000000000
+      internalID: 4311069805322584603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_72
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 456
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408178771d60a9e60800000000000000
+      internalID: 7969689987308787716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_73
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 456
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43013f5a531b70350800000000000000
+      internalID: 5982945473960546356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_74
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 456
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c615315500e16f30800000000000000
+      internalID: 4567177810572285636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_75
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 456
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6957b0a2575fc6e70800000000000000
+      internalID: 9109926029829043606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_76
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 424
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7ad9f5b09cec310800000000000000
+      internalID: 1427299182609016798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_77
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 424
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc6ab50471258960800000000000000
+      internalID: 7603520328080977107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_78
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 424
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337abd058d6fd5510800000000000000
+      internalID: 1539658056560518963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_79
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 424
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf537c527709a0f50800000000000000
+      internalID: 6848445024779580924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_80
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 424
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cbb397c7e8ff980800000000000000
+      internalID: -8502920906191160198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_81
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 424
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4f8503ce0855160800000000000000
+      internalID: 7013653746611188921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_82
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 424
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d4fac698cb4c040800000000000000
+      internalID: 4667062412282645763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_83
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 424
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8502a909623c135a0800000000000000
+      internalID: -6543234213190426536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 392
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29851837aae5c9250800000000000000
+      internalID: 5952736893652261010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_85
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 392
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9a19b688777ab30800000000000000
+      internalID: 4298535797152393638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_86
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 393
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21313704601ade390800000000000000
+      internalID: -7787391132430560494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_87
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 392
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c8683d1723cebf0800000000000000
+      internalID: -293804411224421319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_88
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 392
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d90a08f43782770800000000000000
+      internalID: 8586239474879470862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_89
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 392
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9343d018c7ded2e90800000000000000
+      internalID: -7048716722768104391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_90
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 392
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85943ec576d0b2ce0800000000000000
+      internalID: -1429033719168808616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_91
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 392
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaf38ef6a1a3fa90800000000000000
+      internalID: -7281298433921254741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_92
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 360
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f20c534b2f7f930800000000000000
+      internalID: 4177074035219246878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_93
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 360
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19eb39a7c2372dc0800000000000000
+      internalID: -3663903938723452646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_94
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 361
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcfcadca3cd78430800000000000000
+      internalID: 3785236156945071291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_95
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 362
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8954084ba4ac3d710800000000000000
+      internalID: 1716938305162986904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_96
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 362
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53132070c2fac3d00800000000000000
+      internalID: 953829824726708533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_97
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 362
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78a7a8a052c21c00800000000000000
+      internalID: 869971329718659195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_98
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 364
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57eec6a9e97d0f80800000000000000
+      internalID: -8138714907155699875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_99
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 365
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cdf5c1c960bc2a0800000000000000
+      internalID: -6716267151732253595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_100
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 366
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb1dbef8cfcdbc10800000000000000
+      internalID: 2071039865834511305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_101
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 367
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f7f5178db7f9e40800000000000000
+      internalID: 5665383025800609576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_102
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 328
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aa7b772d93f4f50800000000000000
+      internalID: 6867771532877736588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_103
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 328
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30daa2778985ea8e0800000000000000
+      internalID: -1680308199105057533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_104
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 329
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a18377bd42c4c00800000000000000
+      internalID: 886123751701748339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_105
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 329
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0910ef277d5a020800000000000000
+      internalID: 2352523269258711234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_106
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 329
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ee61466a43adfc0800000000000000
+      internalID: -3469402673687105946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_107
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 328
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d215b41bb3f6366f0800000000000000
+      internalID: -692587615516667603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_108
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 328
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62612143fcbe2270800000000000000
+      internalID: 8227721322208256619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_109
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 328
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881d9e741b0729380800000000000000
+      internalID: -8965980001423208056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_110
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 296
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c2c57a2a67b76c0800000000000000
+      internalID: -4144588591099794352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_111
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 296
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786d58d2ab314d070800000000000000
+      internalID: 8130144917659178631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_112
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 297
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4697c8dad019a90800000000000000
+      internalID: -7309045681208335158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_113
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 297
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae2249911038aa70800000000000000
+      internalID: 8838367120858427043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_114
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 297
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce988aff94468a560800000000000000
+      internalID: 7325215062902737388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_115
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 296
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002e8afdcba580190800000000000000
+      internalID: -7996041371143577088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_116
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 296
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24cd99db7baabd20800000000000000
+      internalID: 3295134625795261485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_117
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 296
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d25cf963f23bb6a0800000000000000
+      internalID: -6432491621732035879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_118
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 264
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f36d210af47dee0800000000000000
+      internalID: -1236432023760519290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_119
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 264
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70cc87ec24afe930800000000000000
+      internalID: 4174735892366016639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_120
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 264
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a8324e3bd998e00800000000000000
+      internalID: 1047541784292592155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_121
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 264
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9571de66d9a78800800000000000000
+      internalID: 614646612606678427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_122
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 264
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dad86d24a99b460800000000000000
+      internalID: 7258001886342393095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_123
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 264
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5066bdfa9689c3280800000000000000
+      internalID: -9062200770486901243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_124
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 264
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af15b2c8fed800600800000000000000
+      internalID: 432501624215917050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_125
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 264
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975f16cb67df150d0800000000000000
+      internalID: -3435686354298473095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_126
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 232
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895e516d5a38dc570800000000000000
+      internalID: 8488585620947854744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_127
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 232
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312b2f7de590e81c0800000000000000
+      internalID: -4499648674741964269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_128
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 232
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1cbfc2cdaff8320800000000000000
+      internalID: 2562542536551547368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_129
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 232
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6647e7c3c74faa590800000000000000
+      internalID: -7662043001589435290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_130
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 232
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad0548c5e55eca80800000000000000
+      internalID: -8444717805877260884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_131
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 232
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004e0fbf35b53f450800000000000000
+      internalID: 6121336734793917440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_132
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 200
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff225d358c2121bf0800000000000000
+      internalID: -355200768999611649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_133
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 200
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e29211605986cfb0800000000000000
+      internalID: -4627860588757609755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_134
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 200
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be770deddea8edb90800000000000000
+      internalID: -7215176798750869525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_135
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 200
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95099b574f11e97a0800000000000000
+      internalID: -6368633081410514855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_136
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 200
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b8a3c606cb41000800000000000000
+      internalID: 5836621852871541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_137
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 200
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81071d52694acad0800000000000000
+      internalID: -2681249941328297590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_138
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7803d83cd0eb4d0800000000000000
+      internalID: -3117038758555252782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_139
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 168
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf54b792c9d87e80800000000000000
+      internalID: -8180549293326442548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_140
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 168
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ce61fca71e58b40800000000000000
+      internalID: 5442003642323758226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_141
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9408f555b5b1cba0800000000000000
+      internalID: -6070371032282692450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_142
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 168
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6fb6a4fe05592b0800000000000000
+      internalID: -5578463574752495950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_143
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 168
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f720ee7efbafbbac0800000000000000
+      internalID: -3838198555266383233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_144
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 136
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d81d0a6f170eba0800000000000000
+      internalID: -6061719794366706383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_145
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 136
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7767db471068c6600800000000000000
+      internalID: 462892202523981431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_146
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 136
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbca41f3da55706d0800000000000000
+      internalID: -3024354422179976004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_147
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 136
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650ee7040f6948830800000000000000
+      internalID: 4072545921668145238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_148
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 136
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dce73a51e0f2600800000000000000
+      internalID: 445590374233066858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_149
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 136
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13514cfe22abd01f0800000000000000
+      internalID: -1077000076657421007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_150
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 104
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082b0c937ee64fb00800000000000000
+      internalID: 861435368120038016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_151
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 72
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b9d0ded50636980800000000000000
+      internalID: -8546881711293752496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_152
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 40
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b86a5cd57f43a00800000000000000
+      internalID: 735484621288278793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharAni-Full-NoWeps_153
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 8
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b694b2c02b5d7190800000000000000
+      internalID: -7963108369857472839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
