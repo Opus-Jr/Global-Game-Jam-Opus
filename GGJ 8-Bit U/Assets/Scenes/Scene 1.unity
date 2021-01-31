@@ -61528,7 +61528,7 @@ MonoBehaviour:
   runBar: {fileID: 0}
   maxRun: 100
   currentRun: 0
-  runSpeed: 0
+  runSpeed: 6
   cam: {fileID: 0}
 --- !u!212 &1253283932
 SpriteRenderer:
