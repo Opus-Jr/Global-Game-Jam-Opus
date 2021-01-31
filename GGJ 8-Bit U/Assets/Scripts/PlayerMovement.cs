@@ -38,14 +38,14 @@ public class PlayerMovement : MonoBehaviour
     {
 
         // Player Movement
-        while (Input.GetKeyDown(KeyCode.LeftShift)) {
+        /*while (Input.GetKeyDown(KeyCode.LeftShift)) {
                 rb.velocity = new Vector2(moveDirection.x * runSpeed * 2.5f, moveDirection.y * runSpeed * 2.5f);
                 TakeDamage(1);
         }
         else{
             
             TakeDamage(-1);
-        }
+        }*/
         rb.velocity = new Vector2(moveDirection.x * runSpeed, moveDirection.y * runSpeed);
         //Move();
     }
