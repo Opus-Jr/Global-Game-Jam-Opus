@@ -5,20 +5,20 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public Rigidbody2D rb;
-    public HealthBar runBar;
+    //public HealthBar runBar;
 
-    public int maxRun = 100;
-    public int currentRun;
+    //public int maxRun = 100;
+    //public int currentRun;
 
     public float runSpeed;
-    public Camera cam;
+    //public Camera cam;
 
     Vector2 moveDirection;
 
     void Start()
     {
-        currentRun = maxRun;
-        runBar.SetMaxHealth(maxRun);
+        //currentRun = maxRun;
+        //runBar.SetMaxHealth(maxRun);
     }
 
     // Update is called once per frame
@@ -50,10 +50,10 @@ public class PlayerMovement : MonoBehaviour
         //Move();
     }
 
-    void TakeDamage(int damage)
-    {
-        currentRun -= damage;
+    //void TakeDamage(int damage)
+    //{
+        //currentRun -= damage;
 
-        runBar.SetHealth(currentRun);
-    }
+        //runBar.SetHealth(currentRun);
+    //}
 }
