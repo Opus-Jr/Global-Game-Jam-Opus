@@ -58831,6 +58831,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 1322401185}
+  runBar: {fileID: 2066447889}
+  maxRun: 100
+  currentRun: 0
   runSpeed: 6
   cam: {fileID: 0}
 --- !u!50 &1322401185
