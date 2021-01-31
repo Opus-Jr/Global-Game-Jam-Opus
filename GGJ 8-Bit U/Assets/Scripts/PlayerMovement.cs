@@ -43,7 +43,7 @@ public class PlayerMovement : MonoBehaviour
             rb.velocity = new Vector2(moveDirection.x * runSpeed * 1.2f, moveDirection.y * runSpeed * 1.2f);
             TakeDamage(1);
         }
-        else if (Input.GetKeyUp(KeyCode.LeftShift))
+        else
         {
             rb.velocity = new Vector2(moveDirection.x * runSpeed, moveDirection.y * runSpeed);
             TakeDamage(-1);
